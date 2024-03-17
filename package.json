@@ -1,0 +1,27 @@
+{
+  "name": "cmd-currency-convertor",
+  "version": "1.0.0",
+  "description": "A package to convert currency ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidhiagarwal121/npm-Currency-convertor.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "siddhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidhiagarwal121/npm-Currency-convertor/issues"
+  },
+  "homepage": "https://github.com/sidhiagarwal121/npm-Currency-convertor#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1",
+    "node-fetch": "^3.3.2"
+  }
+}
